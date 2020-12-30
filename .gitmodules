@@ -1,0 +1,3 @@
+[submodule "lessons/lesson-1"]
+	path = lessons/lesson-1
+	url = git@github.com:bksdrodrigo/tdd-lessons-string-calculator.git
